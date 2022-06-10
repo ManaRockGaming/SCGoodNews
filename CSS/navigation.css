@@ -1,0 +1,32 @@
+body 
+{
+    margin: 0px;
+    background-color: #faf3c0;
+}
+
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited 
+{
+    text-decoration: none;
+    color:black; 
+}
+
+
+
+
+
+
+
+
+
+.nav
+{
+    background-color: #f2d600;
+    text-align: center;
+}

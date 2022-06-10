@@ -1,0 +1,115 @@
+article
+{
+    margin: 20px;
+}
+    
+article td
+{
+    padding: 20px;
+}
+
+
+.column
+{
+    height: auto;
+    vertical-align: top;      
+}
+   
+
+
+.papers
+{
+    border: 1px solid #f5dd29;
+    background:#fdfae5;
+    text-align: center;
+    padding: 10px;
+    height: auto;
+}
+
+.papers h1
+{
+    margin-top: 0px;
+}
+
+.papers img
+{
+    padding: 10px;
+    margin-bottom: -20px;
+}
+
+.papers hr
+{
+    height:1px; 
+    border-width:0; 
+    color:#f5dd29; 
+    background-color:#f5dd29;
+}
+
+.papers a:hover
+{
+    text-decoration: none;
+    color: #f5dd29;
+}
+
+   
+
+
+.mainpaper
+{
+    border: 1px solid #f5dd29;
+    background:#fdfae5;
+    text-align: center;
+    padding: 10px;
+    height: 930px;
+}
+
+
+
+
+
+ 
+.sideinfo
+{
+    border: 1px solid #f5dd29;
+    background:#fdfae5;
+    text-align: center;
+    padding: 10px;
+}
+
+.sideinfo h1
+{
+    margin-top: 0px;
+}
+
+.sideinfo a:hover
+{
+    text-decoration: none;
+    color: #f5dd29;
+}
+
+
+
+    
+
+.advertising
+{
+    border: 1px solid #f5dd29;
+    background:#fdfae5;
+    padding: 0px 20px 0px 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.advertising a:hover
+{
+    text-decoration: none;
+    color: #f5dd29;
+}  
+
+
+
+
+
+
+
+

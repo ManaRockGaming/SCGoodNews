@@ -1,0 +1,23 @@
+footer
+{
+    background-color: #f2d600;
+}
+
+footer table
+{
+    
+    text-align: center;
+}
+
+footer a:hover 
+{
+    color:#faf3c0;
+    font-weight: bold;
+}
+
+footer div
+{
+    
+    padding: 10px;
+    text-align: center;
+}
